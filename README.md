@@ -1,1 +1,1 @@
-# responsive-design-project
+# codecademy responsive-design-project
