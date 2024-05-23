@@ -121,6 +121,9 @@ main p{
 }
 
 @media only screen and (max-width: 425px){
+  header{
+    height: 3rem;
+  }
   .quote{
     font-size: 0.775em;
   }
